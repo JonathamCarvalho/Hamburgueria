@@ -10,7 +10,7 @@
 
 ## 📌 Descrição
 
-Este projeto foi desenvolvido com **HTML, CSS e JavaScript puro**, com foco na prática de manipulação de DOM e métodos avançados de array.
+Este projeto foi desenvolvido com **HTML, CSS e JavaScript puro**, com foco no fortalecimento da lógica de programação e manipulação de dados.
 A aplicação simula um **menu interativo de hamburgueria**, permitindo aplicar filtros, descontos e cálculos dinâmicos sobre os produtos.
 
 ## 🚀 Funcionalidades
@@ -39,3 +39,15 @@ A aplicação simula um **menu interativo de hamburgueria**, permitindo aplicar 
 ## 🌐 Acesse o Projeto
 
 https://jonathamcarvalho.github.io/Hamburgueria/
+
+## 📸 Preview
+
+## Desktop
+<p align="center">
+  <img src="./img/Desktop.PNG" width="800px" />
+</p>
+
+## Mobile
+<p align="center">
+  <img src="./img/Mobile.jpeg" width="300px" />
+</p>
